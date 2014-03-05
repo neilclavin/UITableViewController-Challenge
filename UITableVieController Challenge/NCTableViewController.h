@@ -1,5 +1,5 @@
 //
-//  NCViewController.h
+//  NCTableViewController.h
 //  UITableVieController Challenge
 //
 //  Created by Studio on 05/03/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NCViewController : UIViewController
+@interface NCTableViewController : UITableViewController
 
 @end
